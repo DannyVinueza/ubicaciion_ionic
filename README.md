@@ -8,6 +8,8 @@
 
 Link del video: https://youtube.com/shorts/5herH2lW3-w?si=q2eV5wH4fg9pPcL5
 
+--Danny Vinueza
+
 La pantalla muestra dos botones uno para obtener la ubicacion actual y el otro para redirigir a la ubicación abriendo Google Maps
 
 [![Pantalla-Ini.png](https://i.postimg.cc/Z5xqyX5B/Pantalla-Ini.png)](https://postimg.cc/RWqmksf4)
